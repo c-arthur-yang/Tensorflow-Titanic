@@ -1,4 +1,4 @@
-# Titanic-Tensorflow
+# Tensorflow-Titanic
 
 Titanic: Machine Learning from Disaster is a typical and classical dataset on Kaggle.
 

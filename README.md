@@ -13,6 +13,6 @@ In the test.csv, the feature "Survived" is hidden, we will predict their status 
 
 I use two schemes to make the prediction.
 
-In decision_tree.py, I ues Decision Tree to predict the survived passanger, which got a reasonable result.
+In decision_tree.py, I use Decision Tree to predict the survived passangers, which got a reasonable result.
 
-In 
+I also use TensorFlow to build a 3-layers NN to make the decision.

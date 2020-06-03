@@ -9,3 +9,10 @@ We got two datasets as train.csv and test.csv which can be used to train our mod
 In the train.csv, some of the features are missing. It forces us to fill the missing values and deal with NaN carefully.
 
 In the test.csv, the feature "Survived" is hidden, we will predict their status based on the features given in the file.
+
+
+I use two schemes to make the prediction.
+
+In decision_tree.py, I ues Decision Tree to predict the survived passanger, which got a reasonable result.
+
+In 
